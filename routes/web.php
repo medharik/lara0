@@ -11,3 +11,6 @@ Route::get('/about', function () {
 Route::get('/accueil', function () {
     return view('accueil');
 });
+Route::get('/home', function () {
+    return view('home');
+});

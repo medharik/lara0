@@ -1,7 +1,7 @@
 @extends('layout')
 @section('title')
-    Accueil
+    Home
 @endsection
 @section('content')
-   <h1>Accueil #</h1>
+   <h1>Home #</h1>
 @endsection
