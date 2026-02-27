@@ -7,9 +7,7 @@
 
     <title>{{  config('app.name') }} # @yield('title','titre de page par defaut')</title>
     <style>
-        *{
-           // margin: 0;padding: 0;
-        }
+
         nav a{
             color: orangered;
             padding: 10px;
