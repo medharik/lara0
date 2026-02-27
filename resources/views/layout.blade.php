@@ -20,7 +20,7 @@
 <nav style="width: 100%;padding: 10px;display: flex;justify-content: center;background: rgba(255, 255, 0, 0.422)">
     <a href="/accueil">Accueil </a>
     <a href="/about?">About</a>
-    <a href="/home?">Home</a>
+    <a href="/home? ">Home</a>
 </nav>
 <main>
     @yield('content')
