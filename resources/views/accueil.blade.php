@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title')
+@section(section: 'title')
     Accueil
 @endsection
 @section('content')
